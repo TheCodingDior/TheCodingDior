@@ -5,13 +5,10 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-- 🔭 I’m currently working on Project - Stella AI CHATBOT  
+- 🔭 I’m currently working on Project - Arduino Nano ESP32 
   
 
-- 🌱 I’m currently learning JavaScript and React  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything.....
   
 
 - ⚡ Fun fact: I use tabs over spaces  
